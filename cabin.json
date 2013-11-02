@@ -1,0 +1,27 @@
+{
+  "CSSPreprocessor": [
+    "Sass"
+  ],
+  "templateEngine": [
+    "Jade",
+    "EJS"
+  ],
+  "gruntPagesConfig": {
+    "posts": {
+      "src": "posts",
+      "dest": "dist",
+      "layout": "src/layouts/post.<%= templateEngine %>",
+      "url": "posts/:title/",
+      "options": {
+        "pageSrc": "src/pages",
+        "data": {
+          "baseUrl": "/"
+        },
+        "pagination": {
+          "postsPerPage": 1,
+          "listPage": "src/pages/index.<%= templateEngine %>"
+        }
+      }
+    }
+  }
+}

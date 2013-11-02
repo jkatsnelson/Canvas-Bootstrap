@@ -1,0 +1,30 @@
+{
+  "name": "Canvas",
+  "version": "0.0.0",
+  "dependencies": {
+    "cabin": "~0.3.0",
+    "grunt-pages": "~0.9.0"
+  },
+  "devDependencies": {
+    "grunt": "~0.4.1",
+    "grunt-contrib-copy": "~0.4.1",
+    "grunt-contrib-compass": "~0.2.0",
+    "grunt-contrib-connect": "~0.2.0",
+    "grunt-contrib-clean": "~0.4.0",
+    "grunt-contrib-livereload": "~0.1.2",
+    "grunt-open": "~0.2.0",
+    "grunt-contrib-watch": "~0.4.3",
+    "matchdep": "~0.1.1",
+    "grunt-gh-pages": "~0.7.0",
+    "should": "~1.2.2",
+    "grunt-simple-mocha": "~0.4.0",
+    "wrench": "~1.5.1",
+    "html-diff": "0.0.3"
+  },
+  "scripts": {
+    "test": "grunt testTheme"
+  },
+  "engines": {
+    "node": ">=0.10.0"
+  }
+}
