@@ -1,17 +1,17 @@
 @import 'compass';
-@import "../bower_components/bootstrap-sass/lib/variables";
-@import "../bower_components/bootstrap-sass/lib/mixins";
+@import "../vendor/bootstrap-sass/lib/variables";
+@import "../vendor/bootstrap-sass/lib/mixins";
 
 // remove old normalize
-@import "../bower_components/bootstrap-sass/lib/normalize";
-@import "../bower_components/bootstrap-sass/lib/print";
+@import "../vendor/bootstrap-sass/lib/normalize";
+@import "../vendor/bootstrap-sass/lib/print";
 
-@import "../bower_components/bootstrap-sass/lib/scaffolding";
-@import "../bower_components/bootstrap-sass/lib/type";
-@import "../bower_components/bootstrap-sass/lib/grid";
-@import "../bower_components/bootstrap-sass/lib/tables";
-@import "../bower_components/bootstrap-sass/lib/forms";
-@import "../bower_components/bootstrap-sass/lib/buttons";
+@import "../vendor/bootstrap-sass/lib/scaffolding";
+@import "../vendor/bootstrap-sass/lib/type";
+@import "../vendor/bootstrap-sass/lib/grid";
+@import "../vendor/bootstrap-sass/lib/tables";
+@import "../vendor/bootstrap-sass/lib/forms";
+@import "../vendor/bootstrap-sass/lib/buttons";
 
 @import 'github';
 
