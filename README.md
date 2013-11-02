@@ -2,7 +2,7 @@
 
 > Starter theme for [Cabin](http://cabinjs.com), plus bootstrap-sass and jquery in the /vendor folder, and a container/column wrapper.
 
-# The rest of this README is the same as the [Original Canvas Theme](https://github.com/CabinJS/Canvas)
+#### The rest of this README is the same as the [Original Canvas Theme](https://github.com/CabinJS/Canvas)
 
 [![Dependency Status](https://gemnasium.com/CabinJS/Canvas.png)](https://gemnasium.com/CabinJS/Canvas) [![Travis Status](https://travis-ci.org/CabinJS/Canvas.png?branch=master)](https://travis-ci.org/CabinJS/Canvas)
 
