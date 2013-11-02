@@ -20,6 +20,6 @@
   ],
   "dependencies": {
     "bootstrap-sass": "~3.0.1"
-  }
+  },
   "directory": "bower_components"
 }
