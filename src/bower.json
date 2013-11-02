@@ -21,5 +21,4 @@
   "dependencies": {
     "bootstrap-sass": "~3.0.1"
   }
-  "directory": "src/bower_components"
 }
